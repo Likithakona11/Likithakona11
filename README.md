@@ -26,7 +26,6 @@
 
 ### 📌 Databases
 - MySQL
-- SQLite
 
 ### 📌 Tools & Platforms
 - Git & GitHub
@@ -68,6 +67,6 @@ To start my career as a **Data Analyst**, where I can apply my analytical skills
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: www.linkedin.com/in/likitha-kona-873b63288 
-- 💻 GitHub: https://github.com/likitha-kona  
+- 💻 GitHub: https://github.com/Likithakona11  
 
 
